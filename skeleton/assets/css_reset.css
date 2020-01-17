@@ -1,0 +1,22 @@
+html, body, section, article, h1, h2, p, img, li {
+  margin: 0px;
+  border: 0px;
+  padding: 0px; 
+  font: inherit;
+  list-style: none;
+  line-height: 1.5;
+  width: inherit;
+
+}
+
+/* li {
+  list-style: none;
+}
+
+body {
+  line-height: 1.5;
+}
+
+img {
+  width: inherit;
+} */
